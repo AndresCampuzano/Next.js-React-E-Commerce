@@ -4,7 +4,9 @@ import Layout from '@components/Layout/Layout'
 import Title from '@components/TitlePoster'
 import ProductList from '@components/ProductList/ProductList'
 
-export const getServerSideProps = async () => {
+// This works only on pages, not components.
+
+export const getStaticProps = async () => {
   const response = await fetch(
     'https://japaneseposters-next.vercel.app/api/avo'
   )

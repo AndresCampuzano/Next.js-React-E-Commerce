@@ -1,6 +1,6 @@
 # Next.js React Project E-commerce
 
-- First Next.js project. It's a japanese poster's e-commerce [live demo](https://petgram-react-andres.now.sh/).
+- First Next.js project. It's a japanese poster's e-commerce [live demo](https://japaneseposters-next.vercel.app/).
 - Check my portfolio for more projects. [andrescampuzano.com](https://andrescampuzano.com).
 
 ### 🚀 Challenges
